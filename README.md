@@ -1,4 +1,6 @@
-# WAD621S Lab 5 - Web Application Styling Lab
+## ReadMe File for Student Challenge Version
+
+# Web Application Styling Lab - Student Challenge
 
 ## Overview
 
@@ -64,6 +66,31 @@ By completing this lab, you will:
 - Implement a color system using CSS variables
 - Create theme switching functionality
 - Ensure consistent theming across components
+
+## CSS Variables Provided
+
+We've provided a set of CSS variables to help you maintain consistency:
+
+```css
+:root {
+  --primary: #4361ee;
+  --secondary: #3a0ca3;
+  --success: #4cc9f0;
+  --warning: #f72585;
+  --info: #7209b7;
+  --light: #f8f9fa;
+  --dark: #212529;
+  --gray: #6c757d;
+  --light-gray: #e9ecef;
+  --white: #ffffff;
+  --card-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --transition: all 0.3s ease;
+  --body-bg: #f5f7ff;
+  --card-bg: #ffffff;
+  --text-color: #212529;
+  --border-color: #e9ecef;
+}
+```
 
 ## Tips for Success
 

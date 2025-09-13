@@ -1,6 +1,6 @@
-## ReadMe File for Student Challenge Version
+## ReadMe File for Lab 5
 
-# Web Application Styling Lab - Student Challenge
+# Web Application Development (WAD621S) Styling Lab - Lab 05
 
 ## Overview
 
@@ -18,11 +18,12 @@ By completing this lab, you will:
 
 ## Getting Started
 
-1. Open the HTML file in a code editor
-2. Examine the HTML structure of each component
-3. Write CSS rules in the provided style section
-4. Open the HTML file in a browser to see your results
-5. Use developer tools to test and debug your styles
+1. Close the Repository to have it locally
+2. Open the HTML file in a code editor (VS Code)
+3. Examine the HTML structure of each component
+4. Write CSS rules in the provided style file
+5. Open the HTML file in a browser to see your results
+6. Use developer tools to test and debug your styles
 
 ## Challenge Components
 

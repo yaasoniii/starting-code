@@ -18,7 +18,7 @@ By completing this lab, you will:
 
 ## Getting Started
 
-1. Clone the Repository to have it locally
+1. Fork/Clone the Repository to have it locally
 2. Open the HTML file in a code editor (VS Code)
 3. Examine the HTML structure of each component
 4. Write CSS rules in the provided style file

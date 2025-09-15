@@ -130,6 +130,6 @@ If you finish early, try these additional challenges:
 
 ## Submission
 
-Submit your completed HTML file with all CSS implemented. Include a brief document explaining your design decisions and any challenges you faced.
+Submit your completed HTML file with all CSS implemented on GitHub. Include a brief document explaining your design decisions and any challenges you faced.
 
 Good luck, and have fun styling!
